@@ -11,12 +11,12 @@ At Dwelling Deals, we specialize in helping you find your perfect home, investme
 ## Design Screenshots
 
 ### Home Page
-<img src="Input and Output Design/Home1 7.35.34 PM.png" alt="Home Page 1" width="800"/>
-<img src="Input and Output Design/Home2 7.36.41 PM.png" alt="Home Page 2" width="800"/>
-<img src="Input and Output Design/Home3 7.36.50 PM.png" alt="Home Page 3" width="800"/>
-<img src="Input and Output Design/Home4 7.36.57 PM.png" alt="Home Page 4" width="800"/>
-<img src="Input and Output Design/Home5 7.39.41 PM.png" alt="Home Page 5" width="800"/>
-<img src="Input and Output Design/Home6 7.39.49 PM.png" alt="Home Page 6" width="800"/>
+![Home Page 1](https://raw.githubusercontent.com/Harsh-Pranjal-Jay/Dwelling-Deals-Collage-Project-/main/Input%20and%20Output%20Design/Home1%207.35.34%E2%80%AFPM.png)
+![Home Page 2](https://raw.githubusercontent.com/Harsh-Pranjal-Jay/Dwelling-Deals-Collage-Project-/main/Input%20and%20Output%20Design/Home2%207.36.41%E2%80%AFPM.png)
+![Home Page 3](https://raw.githubusercontent.com/Harsh-Pranjal-Jay/Dwelling-Deals-Collage-Project-/main/Input%20and%20Output%20Design/Home3%207.36.50%E2%80%AFPM.png)
+![Home Page 4](https://raw.githubusercontent.com/Harsh-Pranjal-Jay/Dwelling-Deals-Collage-Project-/main/Input%20and%20Output%20Design/Home4%207.36.57%E2%80%AFPM.png)
+![Home Page 5](https://raw.githubusercontent.com/Harsh-Pranjal-Jay/Dwelling-Deals-Collage-Project-/main/Input%20and%20Output%20Design/Home5%207.39.41%E2%80%AFPM.png)
+![Home Page 6](https://raw.githubusercontent.com/Harsh-Pranjal-Jay/Dwelling-Deals-Collage-Project-/main/Input%20and%20Output%20Design/Home6%207.39.49%E2%80%AFPM.png)
 
 ### Authentication
 ![Login Page](Input%20and%20Output%20Design/Login.png)
